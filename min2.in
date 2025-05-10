@@ -1,0 +1,7 @@
+Minimize solute and solvent
+ &cntrl
+   imin=1, maxcyc=10000, ntmin=1,
+   ntb=1, ntc=1, ntf=1,
+   ntwx=100, ntpr=100, ntwr=100,
+   ioutfm=1, iwrap=1,
+ /
